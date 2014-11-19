@@ -19,3 +19,4 @@ paginate: 5
 # Sass
 sass:
     style: :compressed
+baseurl: roachhd.github.io/travellog-theme/
